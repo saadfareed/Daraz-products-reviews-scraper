@@ -1,7 +1,11 @@
 # Daraz-products-reviews-scraper for NLP
 
+
+
 data is labeled in two categories, Five star reviews is considered as positive review(label 1) and 1star reviews is considered as a negative reviews (label -0)
 <img src="https://github.com/rashedhasan007/Daraz-products-reviews-scraper/blob/main/Screenshot%20(180).png" width="800px" height="auto">
+
+https://un56px0bgyi6h0vrsfk2og-on.drv.tw/
 
 further work
 
