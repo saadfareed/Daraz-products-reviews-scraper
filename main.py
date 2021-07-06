@@ -3,9 +3,14 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import pandas as pd
 import time
-from webdriver_manager.firefox import GeckoDriverManager
-
-driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
+op=webdriver.ChromeOptions()
+op.binary_location=os.environ.get("GOOGLE_CHROME_BIN")
+op.add_argument('--headless')
+op.add_argument('--no-sandbox')
+op.add_argument('--disable-dev-sh-usage')
+#from webdriver_manager.firefox import GeckoDriverManager
+driver=webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"),chrome_options=op)
+#driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
 
 ##driver.get("https://www.daraz.com.bd/bath-body/?page=2&spm=a2a0e.home.cate_4.1.25e84591fd3uEZ")
 list_link=[
