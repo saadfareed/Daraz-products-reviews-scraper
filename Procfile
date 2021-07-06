@@ -1,1 +1,1 @@
-worker: python r1.py --log-file -
+worker: python test.py --log-file -
