@@ -22,7 +22,6 @@ list_link=[
     "https://www.daraz.com.bd/cereal/?page=5&spm=a2a0e.home.cate_6_2.2.107a12f7jJBzfg",
     "https://www.daraz.com.bd/cereal/?page=6&spm=a2a0e.home.cate_6_2.2.107a12f7jJBzfg",
     "https://www.daraz.com.bd/cereal/?page=7&spm=a2a0e.home.cate_6_2.2.107a12f7jJBzfg",
-    "https://www.daraz.com.bd/mother-baby/?spm=a2a0e.searchlistcategory.cate_5.1.6d4158dfpM1n6k",
     "https://www.daraz.com.bd/mother-baby/?page=2&spm=a2a0e.searchlistcategory.cate_5.1.6d4158dfpM1n6k",
     "https://www.daraz.com.bd/mother-baby/?page=3&spm=a2a0e.searchlistcategory.cate_5.1.6d4158dfpM1n6k",
     "https://www.daraz.com.bd/mother-baby/?page=4&spm=a2a0e.searchlistcategory.cate_5.1.6d4158dfpM1n6k",
