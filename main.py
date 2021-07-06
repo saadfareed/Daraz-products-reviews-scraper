@@ -3,6 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import pandas as pd
 import time
+import os
 op=webdriver.ChromeOptions()
 op.binary_location=os.environ.get("GOOGLE_CHROME_BIN")
 op.add_argument('--headless')
